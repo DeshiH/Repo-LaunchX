@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+
+
+.nav-item{
+    background-color: red;
+}
+
+
+
+.container-fluid{
+    text-align: center;
+}
+
+.titulo{
+   text-align: center;
+}
+
+.footer{
+    background-color: red;
+}
