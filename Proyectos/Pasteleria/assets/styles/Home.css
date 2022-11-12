@@ -1,0 +1,99 @@
+body{
+    background-color: pink;
+}
+
+.barra{
+    display: grid;
+    justify-content: center;
+}
+
+
+
+.container-fluid{
+    text-align: center;
+}
+
+.titulo{
+   text-align: center;
+}
+
+
+
+
+.container{
+ 
+    width: 70%;
+   
+}
+
+.row{
+justify-content: center;
+
+
+}
+
+.card-title{
+    text-align: center;
+}
+
+.list-cake-2{
+    margin-top: 30px;
+}
+
+footer{
+    display: grid;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    background-color: gray;
+}
+
+.cards-2{
+   margin-top: 20px;
+}
+
+img{
+    
+    margin-top: 20px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 22% 22% 22%;
+    justify-content: center;
+}
+
+.final{
+    text-align: center;
+}
+
+.formulario{
+    margin: auto;
+    text-align: center;
+    background-color: pink;
+    width: 50%;
+}
+
+
+.sabores{
+    display:inline-block;
+    text-align:center;
+    
+}
+.adornos{
+    margin-top: 50px;
+    display:inline-block;
+    text-align:center;
+
+}
+
+.datos{
+    display: grid;
+    text-align: left;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+body{
+    background-color: palegoldenrod;
+}
